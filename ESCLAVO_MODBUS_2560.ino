@@ -3,7 +3,7 @@
 #include <ModbusRtu.h>
 #include <EEPROM.h>
 
-
+int dd;
 Modbus slave(ID,2,39);
 
 
